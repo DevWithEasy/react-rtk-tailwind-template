@@ -1,0 +1,5 @@
+.app{
+}
+.app p{
+  @apply text-2xl
+}
